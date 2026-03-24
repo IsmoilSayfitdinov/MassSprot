@@ -43,7 +43,7 @@ import {
 // Goal categories
 const goalCategories = [
   { value: "weight_loss", label: "Vazn yo'qotish", icon: Scale, color: "text-yellow-500", bg: "bg-yellow-500/10" },
-  { value: "muscle_gain", label: "Mushak oshirish", icon: Dumbbell, color: "text-cyan-500", bg: "bg-cyan-500/10" },
+  { value: "muscle_gain", label: "Mushak oshirish", icon: Dumbbell, scolor: "text-cyan-500", bg: "bg-cyan-500/10" },
   { value: "endurance", label: "Chidamlilik", icon: Activity, color: "text-emerald-500", bg: "bg-emerald-500/10" },
   { value: "flexibility", label: "Egiluvchanlik", icon: Zap, color: "text-purple-500", bg: "bg-purple-500/10" },
   { value: "cardio", label: "Kardio sog'lom", icon: Heart, color: "text-red-500", bg: "bg-red-500/10" },
